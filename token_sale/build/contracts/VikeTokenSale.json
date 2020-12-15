@@ -1152,7 +1152,7 @@
                                   "name": "this",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 420,
+                                  "referencedDeclaration": 418,
                                   "src": "811:4:2",
                                   "typeDescriptions": {
                                     "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -1776,7 +1776,7 @@
                                     "name": "this",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 420,
+                                    "referencedDeclaration": 418,
                                     "src": "1163:4:2",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -1975,7 +1975,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 420,
+                              "referencedDeclaration": 418,
                               "src": "1209:4:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -3156,7 +3156,7 @@
                                   "name": "this",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 420,
+                                  "referencedDeclaration": 418,
                                   "src": "811:4:2",
                                   "typeDescriptions": {
                                     "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -3780,7 +3780,7 @@
                                     "name": "this",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 420,
+                                    "referencedDeclaration": 418,
                                     "src": "1163:4:2",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -3979,7 +3979,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 420,
+                              "referencedDeclaration": 418,
                               "src": "1209:4:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_VikeTokenSale_$387",
@@ -4166,8 +4166,7 @@
     }
   },
   "schemaVersion": "3.2.3",
-  "updatedAt": "2020-12-15T04:47:04.238Z",
-  "networkType": "ethereum",
+  "updatedAt": "2020-12-15T05:13:53.479Z",
   "devdoc": {
     "methods": {}
   },
