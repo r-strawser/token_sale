@@ -13,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "insecure-ethereum-p2p-proxy": "github:ise-ethereum/insecure-ethereum-p2p-proxy"
   }
 }
