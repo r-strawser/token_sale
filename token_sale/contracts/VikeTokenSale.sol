@@ -29,7 +29,7 @@ contract VikeTokenSale {
 
         tokensSold += _numberOfTokens;
 
-        Sell(msg.sender, _numberOfTokens);
+        emit Sell(msg.sender, _numberOfTokens);
     }
 
     function endSale() public {
